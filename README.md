@@ -14,4 +14,4 @@ In this project we will deal with differnt algorithms and how to use the scikitl
 
 
 
-[:point_up_2: Image source](https://kedro.readthedocs.io/en/stable/02_get_started/05_example_project.html)
+[:point_up_2: Image source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkedro.readthedocs.io%2Fen%2Fstable%2F02_get_started%2F05_example_project.html&psig=AOvVaw0MPiNL_Zra5Qu9E_iofuxO&ust=1599838108731000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDiycLy3usCFQAAAAAdAAAAABAn)
